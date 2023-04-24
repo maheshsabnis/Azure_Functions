@@ -11,7 +11,7 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "SqlConnectionString":"Server=tcp:mydb.database.windows.net,1433;Initial Catalog=Company;Persist Security Info=False;User ID=maheshadmin;Password=Passw0rd-123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;ConnectionTimeout=3"
+    "SqlConnectionString":"cnonstr"
   }
 
 }
